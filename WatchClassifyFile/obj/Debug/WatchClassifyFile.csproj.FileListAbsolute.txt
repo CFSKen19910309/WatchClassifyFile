@@ -1,0 +1,11 @@
+C:\Users\Kenzo\Desktop\WatchClassifyFile\WatchClassifyFile\bin\Debug\WatchClassifyFile.exe.config
+C:\Users\Kenzo\Desktop\WatchClassifyFile\WatchClassifyFile\bin\Debug\WatchClassifyFile.exe
+C:\Users\Kenzo\Desktop\WatchClassifyFile\WatchClassifyFile\bin\Debug\WatchClassifyFile.pdb
+C:\Users\Kenzo\Desktop\WatchClassifyFile\WatchClassifyFile\obj\Debug\WatchClassifyFile.csprojAssemblyReference.cache
+C:\Users\Kenzo\Desktop\WatchClassifyFile\WatchClassifyFile\obj\Debug\WatchClassifyFile.Properties.Resources.resources
+C:\Users\Kenzo\Desktop\WatchClassifyFile\WatchClassifyFile\obj\Debug\WatchClassifyFile.csproj.GenerateResource.cache
+C:\Users\Kenzo\Desktop\WatchClassifyFile\WatchClassifyFile\obj\Debug\WatchClassifyFile.csproj.CoreCompileInputs.cache
+C:\Users\Kenzo\Desktop\WatchClassifyFile\WatchClassifyFile\obj\Debug\WatchClassifyFile.exe
+C:\Users\Kenzo\Desktop\WatchClassifyFile\WatchClassifyFile\obj\Debug\WatchClassifyFile.pdb
+C:\Users\Kenzo\Desktop\WatchClassifyFile\WatchClassifyFile\obj\Debug\WatchClassifyFile.MainForm.resources
+C:\Users\Kenzo\Desktop\WatchClassifyFile\WatchClassifyFile\obj\Debug\WatchClassifyFile.InputIMEIForm.resources
